@@ -31,25 +31,25 @@ Excel/CSV – Source dataset handling
   # 📁 Repository Structure
 Coffee_Shop_Sales_Project/
 │
-├── 📁 data/
-│   ├── Coffee_Shop_Sales2.csv
-│   └── coffee_shop_sales.db      
+├── data/
+│ ├── Coffee_Shop_Sales2.csv
+│ └── coffee_shop_sales.db # SQL database (SQLite)
 │
-├── 📁 python/
-│   └── data_cleaning_eda.ipynb
+├── python/
+│ └── data_cleaning_eda.ipynb # Data cleaning & EDA
 │
-├── 📁 sql/
-│   ├── create_tables.sql
-│   ├── insert_data.sql
-│   └── analysis_queries.sql
+├── sql/
+│ ├── create_tables.sql
+│ ├── insert_data.sql
+│ └── analysis_queries.sql # SQL insights
 │
-├── 📁 powerbi/
-│   └── Coffee_Shop_Sales_Dashboard.pbix
+├── powerbi/
+│ └── Coffee_Shop_Sales_Dashboard.pbix
 │
-├── 📁 assets/
-│   └── dashboard_preview.png
+├── assets/
+│ └── dashboard_preview.png
 │
-└── 📄 README.md
+└── README.md
 
 # dashboard
 
