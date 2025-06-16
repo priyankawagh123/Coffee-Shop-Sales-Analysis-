@@ -29,6 +29,7 @@ Excel/CSV – Source dataset handling
   🎓 Perfect for Job Portfolios: Showcases analytical thinking, data skills, and presentation — ideal for resumes or interviews.
 
   # 📁 Repository Structure
+  <Pre>
 Coffee_Shop_Sales_Project/
 │
 ├── data/
@@ -50,7 +51,7 @@ Coffee_Shop_Sales_Project/
 │ └── dashboard_preview.png
 │
 └── README.md
-
+  </Pre>
 # dashboard
 
 ...
