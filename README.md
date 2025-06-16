@@ -50,3 +50,10 @@ Coffee_Shop_Sales_Project/
 │   └── dashboard_preview.png
 │
 └── 📄 README.md
+
+# dashboard
+
+...
+
+
+
