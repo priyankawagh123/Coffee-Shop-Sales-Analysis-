@@ -16,17 +16,17 @@ Excel/CSV – Source dataset handling
   💳 Payment Type Analysis: Understand customer preferences for payment methods.
 
 # 🌟 Why This Project Stands Out:
-  🔄 End-to-End Pipeline: Covers full data journey — from raw CSV to professional dashboard —      showing real-world workflow.
+  🔄 End-to-End Pipeline: Covers full data journey — from raw CSV to professional dashboard — showing real-world workflow.
 
-  🧠 Multi-Tool Stack: Uses SQL for logic, Python for wrangling, and Power BI for visual           storytelling — a highly desirable skill combination for analysts.
+  🧠 Multi-Tool Stack: Uses SQL for logic, Python for wrangling, and Power BI for visual storytelling — a highly desirable skill combination for analysts.
 
-  📊 Interactive Dashboard: Power BI visuals with slicers and filters allow dynamic exploration    of sales patterns.
+  📊 Interactive Dashboard: Power BI visuals with slicers and filters allow dynamic exploration of sales patterns.
 
-  🧹 Clean, Modular Code: Clear separation of scripts for SQL, Python, and Power BI enhances       reusability and readability.
+  🧹 Clean, Modular Code: Clear separation of scripts for SQL, Python, and Power BI enhances reusability and readability.
 
-  💡 Business-Oriented Insights: Focuses on actionable outcomes like best-selling items, peak      hours, and payment preferences — not just technical metrics.
+  💡 Business-Oriented Insights: Focuses on actionable outcomes like best-selling items, peak hours, and payment preferences — not just technical metrics.
 
-  🎓 Perfect for Job Portfolios: Showcases analytical thinking, data skills, and presentation —    ideal for resumes or interviews.
+  🎓 Perfect for Job Portfolios: Showcases analytical thinking, data skills, and presentation — ideal for resumes or interviews.
 
   # 📁 Repository Structure
 Coffee_Shop_Sales_Project/
