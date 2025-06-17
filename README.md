@@ -6,8 +6,8 @@ This project explores transactional data from a coffee shop. Using SQL for query
 - Power BI – Dashboard design and business reporting
 - Excel/CSV – Source dataset handling
 
-<pre>
-# 📊 Key Insights & Features:
+  
+# 📊Key Insights & Features:<pre>
   📈 Sales Trends: Visualized daily/monthly revenue trends to identify peak seasons.
   🏷️ Top Products: Analyzed best-selling items to focus on profitable products.
   🕒 Peak Hours: Identified high footfall times for staffing optimization.
