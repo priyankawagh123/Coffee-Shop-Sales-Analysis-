@@ -42,6 +42,9 @@ Coffee_Shop_Sales_Project/
 │ ├── Coffee_Shop_Sales2.csv
 │ └── coffee_shop_sales.db
 │
+├── python/
+│ └── data_cleaning_eda.ipynb 
+│
 ├── sql/
 │ ├── create_tables.sql
 │ ├── insert_data.sql
