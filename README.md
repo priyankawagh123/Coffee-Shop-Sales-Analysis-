@@ -6,13 +6,15 @@ This project explores transactional data from a coffee shop. Using SQL for query
 - Power BI – Dashboard design and business reporting
 - Excel/CSV – Source dataset handling
 
+<pre>
 # 📊 Key Insights & Features:
-    📈 Sales Trends: Visualized daily/monthly revenue trends to identify peak seasons.
-    🏷️ Top Products: Analyzed best-selling items to focus on profitable products.
-    🕒 Peak Hours: Identified high footfall times for staffing optimization.
-    🌍 Location-wise Sales: Compared sales across branches (if multiple locations exist).
-    📦 Product Category Performance: Grouped by category to see which type performs best.
-    💳 Payment Type Analysis: Understand customer preferences for payment methods.
+  📈 Sales Trends: Visualized daily/monthly revenue trends to identify peak seasons.
+  🏷️ Top Products: Analyzed best-selling items to focus on profitable products.
+  🕒 Peak Hours: Identified high footfall times for staffing optimization.
+  🌍 Location-wise Sales: Compared sales across branches (if multiple locations exist).
+  📦 Product Category Performance: Grouped by category to see which type performs best.
+  💳 Payment Type Analysis: Understand customer preferences for payment methods.
+</pre>
 
 # 🌟 Why This Project Stands Out:
   🔄 End-to-End Pipeline: Covers full data journey — from raw CSV to professional dashboard — showing real-world workflow.
