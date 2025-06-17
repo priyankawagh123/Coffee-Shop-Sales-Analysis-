@@ -2,10 +2,9 @@
 This project explores transactional data from a coffee shop. Using SQL for querying insights, Python for data cleaning and preprocessing, and Power BI for interactive visualizations, it uncovers key business insights to support data-driven decisions.
 
 # 🔧 Tools Used:
-SQL (SQLite or MySQL) – Data querying and analysis
-Python (Pandas, Matplotlib) – Data cleaning, transformation, and EDA
-Power BI – Dashboard design and business reporting
-Excel/CSV – Source dataset handling
+- SQL (SQLite or MySQL) – Data querying and analysis
+- Power BI – Dashboard design and business reporting
+- Excel/CSV – Source dataset handling
 
 # 📊 Key Insights & Features:
   📈 Sales Trends: Visualized daily/monthly revenue trends to identify peak seasons.
@@ -22,7 +21,7 @@ Excel/CSV – Source dataset handling
 
   📊 Interactive Dashboard: Power BI visuals with slicers and filters allow dynamic exploration of sales patterns.
 
-  🧹 Clean, Modular Code: Clear separation of scripts for SQL, Python, and Power BI enhances reusability and readability.
+  🧹 Clean, Modular Code: Clear separation of scripts for SQL, and Power BI enhances reusability and readability.
 
   💡 Business-Oriented Insights: Focuses on actionable outcomes like best-selling items, peak hours, and payment preferences — not just technical metrics.
 
@@ -34,15 +33,12 @@ Coffee_Shop_Sales_Project/
 │
 ├── data/
 │ ├── Coffee_Shop_Sales2.csv
-│ └── coffee_shop_sales.db # SQL database (SQLite)
-│
-├── python/
-│ └── data_cleaning_eda.ipynb # Data cleaning & EDA
+│ └── coffee_shop_sales.db
 │
 ├── sql/
 │ ├── create_tables.sql
 │ ├── insert_data.sql
-│ └── analysis_queries.sql # SQL insights
+│ └── analysis_queries.sql
 │
 ├── powerbi/
 │ └── Coffee_Shop_Sales_Dashboard.pbix
