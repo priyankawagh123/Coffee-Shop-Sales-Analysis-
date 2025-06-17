@@ -1,8 +1,9 @@
-# ☕Coffee-Shop-Sales-Analysis | SQL +  Power BI 
+# ☕Coffee-Shop-Sales-Analysis | SQL + Python + Power BI 
 This project explores transactional data from a coffee shop. Using SQL for querying insights, Python for data cleaning and preprocessing, and Power BI for interactive visualizations, it uncovers key business insights to support data-driven decisions.
 
 # 🔧 Tools Used:
 - SQL (SQLite or MySQL) – Data querying and analysis
+- Python (Pandas, Matplotlib) – Data cleaning, transformation, and EDA
 - Power BI – Dashboard design and business reporting
 - Excel/CSV – Source dataset handling
 
@@ -26,7 +27,7 @@ This project explores transactional data from a coffee shop. Using SQL for query
   - Power BI visuals with slicers and filters allow dynamic exploration of sales patterns.
 
   **🧹Clean, Modular Code:**
-  - Clear separation of scripts for SQL, and Power BI enhances reusability and readability.
+  - Clear separation of scripts for SQL, Python and Power BI enhances reusability and readability.
 
   **💡Business-Oriented Insights:**
   - Focuses on actionable outcomes like best-selling items, peak hours, and payment preferences — not just technical metrics.
