@@ -8,31 +8,30 @@ This project explores transactional data from a coffee shop. Using SQL for query
 
   
 # 📊Key Insights & Features:
-<pre>
-  📈 Sales Trends: Visualized daily/monthly revenue trends to identify peak seasons.
-  🏷️ Top Products: Analyzed best-selling items to focus on profitable products.
-  🕒 Peak Hours: Identified high footfall times for staffing optimization.
-  🌍 Location-wise Sales: Compared sales across branches (if multiple locations exist).
-  📦 Product Category Performance: Grouped by category to see which type performs best.
-  💳 Payment Type Analysis: Understand customer preferences for payment methods.
-</pre>
+  -📈 Sales Trends: Visualized daily/monthly revenue trends to identify peak seasons.
+  -🏷️ Top Products: Analyzed best-selling items to focus on profitable products.
+  -🕒 Peak Hours: Identified high footfall times for staffing optimization.
+  -🌍 Location-wise Sales: Compared sales across branches (if multiple locations exist).
+  -📦 Product Category Performance: Grouped by category to see which type performs best.
+  -💳 Payment Type Analysis: Understand customer preferences for payment methods.
+  
 # 🌟 Why This Project Stands Out:
-  🔄 End-to-End Pipeline:
+  **🔄 End-to-End Pipeline:**
   Covers full data journey — from raw CSV to professional dashboard — showing real-world workflow.
 
-  🧠 Multi-Tool Stack:
+  **🧠 Multi-Tool Stack:**
   Uses SQL for logic, Python for wrangling, and Power BI for visual storytelling — a highly desirable skill combination for analysts.
 
-  📊 Interactive Dashboard:
+  **📊 Interactive Dashboard:**
   Power BI visuals with slicers and filters allow dynamic exploration of sales patterns.
 
-  🧹 Clean, Modular Code:
+  **🧹Clean, Modular Code:**
   Clear separation of scripts for SQL, and Power BI enhances reusability and readability.
 
-  💡 Business-Oriented Insights:
+  **💡Business-Oriented Insights:**
   Focuses on actionable outcomes like best-selling items, peak hours, and payment preferences — not just technical metrics.
 
-  🎓 Perfect for Job Portfolios:
+  **🎓Perfect for Job Portfolios:**
   Showcases analytical thinking, data skills, and presentation — ideal for resumes or interviews.
 
   # 📁 Repository Structure
