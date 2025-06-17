@@ -17,22 +17,22 @@ This project explores transactional data from a coffee shop. Using SQL for query
   
 # 🌟 Why This Project Stands Out:
   **🔄 End-to-End Pipeline:**
-  Covers full data journey — from raw CSV to professional dashboard — showing real-world workflow.
+  - Covers full data journey — from raw CSV to professional dashboard — showing real-world workflow.
 
   **🧠 Multi-Tool Stack:**
-  Uses SQL for logic, Python for wrangling, and Power BI for visual storytelling — a highly desirable skill combination for analysts.
+  - Uses SQL for logic, Python for wrangling, and Power BI for visual storytelling — a highly desirable skill combination for analysts.
 
   **📊 Interactive Dashboard:**
-  Power BI visuals with slicers and filters allow dynamic exploration of sales patterns.
+  - Power BI visuals with slicers and filters allow dynamic exploration of sales patterns.
 
   **🧹Clean, Modular Code:**
-  Clear separation of scripts for SQL, and Power BI enhances reusability and readability.
+  - Clear separation of scripts for SQL, and Power BI enhances reusability and readability.
 
   **💡Business-Oriented Insights:**
-  Focuses on actionable outcomes like best-selling items, peak hours, and payment preferences — not just technical metrics.
+  - Focuses on actionable outcomes like best-selling items, peak hours, and payment preferences — not just technical metrics.
 
   **🎓Perfect for Job Portfolios:**
-  Showcases analytical thinking, data skills, and presentation — ideal for resumes or interviews.
+  - Showcases analytical thinking, data skills, and presentation — ideal for resumes or interviews.
 
   # 📁 Repository Structure
   <Pre>
