@@ -63,8 +63,7 @@ Coffee_Shop_Sales_Project/
   # 🧹 Data Cleaning & Preprocessing (Python)
   **Before analysis, the dataset was thoroughly cleaned using Python and Pandas:**
 
-**🔍 Missing Values:** 
-Identified and handled missing entries (e.g., filling, removing).
+**🔍 Missing Values:** Identified and handled missing entries (e.g., filling, removing).
 
 **🔄 Data Type Corrections:** Converted columns like Transaction_Date to datetime, and ensured numeric columns (e.g., Quantity, Total_Amount) had proper types.
 
