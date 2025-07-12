@@ -61,7 +61,7 @@ Coffee_Shop_Sales_Project/
   </Pre>
 
   # 🧹 Data Cleaning & Preprocessing (Python)
-Before analysis, the dataset was thoroughly cleaned using Python and Pandas:
+  **Before analysis, the dataset was thoroughly cleaned using Python and Pandas:**
 
 🔍 Missing Values: Identified and handled missing entries (e.g., filling, removing).
 
