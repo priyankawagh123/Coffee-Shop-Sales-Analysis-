@@ -59,6 +59,20 @@ Coffee_Shop_Sales_Project/
 │
 └── README.md
   </Pre>
+
+  # 🧹 Data Cleaning & Preprocessing (Python)
+Before analysis, the dataset was thoroughly cleaned using Python and Pandas:
+
+🔍 Missing Values: Identified and handled missing entries (e.g., filling, removing).
+
+🔄 Data Type Corrections: Converted columns like Transaction_Date to datetime, and ensured numeric columns (e.g., Quantity, Total_Amount) had proper types.
+
+✂️ Duplicate Removal: Removed exact duplicate records to ensure data integrity.
+
+🔠 Text Standardization: Cleaned column entries for consistency (e.g., product names, payment methods).
+
+📁 Export: Saved the cleaned dataset as a new CSV for further use in SQL and Power BI.
+
 # dashboard
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Dashboard_Img.png" alt="Dashboard Img">
 
