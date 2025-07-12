@@ -73,7 +73,7 @@ Coffee_Shop_Sales_Project/
 
 **📁 Export:** Saved the cleaned dataset as a new CSV for further use in SQL and Power BI.
 
-# dashboard
+# dashboard:-
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Dashboard_Img.png" alt="Dashboard Img">
 
 
