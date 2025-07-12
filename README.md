@@ -60,8 +60,8 @@ Coffee_Shop_Sales_Project/
 └── README.md
   </Pre>
 # dashboard
+<img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Dashboard_Img.png" alt="Dashboard Img">
 
-...
 
 
 
