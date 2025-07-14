@@ -59,7 +59,8 @@ Coffee_Shop_Sales_Project/
 │
 └── README.md
   </Pre>
-
+ # Datasets
+ <a href="https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales">https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales</a>
   # 🧹 Data Cleaning & Preprocessing (Python)
   **Before analysis, the dataset was thoroughly cleaned using Python and Pandas:**
 
