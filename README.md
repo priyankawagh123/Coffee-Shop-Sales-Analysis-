@@ -79,6 +79,7 @@ Coffee_Shop_Sales_Project/
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Python/sc4.png" alt="Data Cleaning Img">
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Python/sc5.png" alt="Data Cleaning Img">
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Python/sc6.png" alt="Data Cleaning Img">
+
 # dashboard:-
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Dashboard_Img.png" alt="Dashboard Img">
 
