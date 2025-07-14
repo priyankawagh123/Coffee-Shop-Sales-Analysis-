@@ -72,6 +72,7 @@ Coffee_Shop_Sales_Project/
 **🔠 Text Standardization:** Cleaned column entries for consistency (e.g., product names, payment methods).
 
 **📁 Export:** Saved the cleaned dataset as a new CSV for further use in SQL and Power BI.
+# Data Cleaning in Python:-
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Python/sc1.png" alt="Data Cleaning Img">
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Python/sc2.png" alt="Data Cleaning Img">
 <img src="https://github.com/priyankawagh123/Coffee-Shop-Sales-Analysis-/blob/main/Python/sc3.png" alt="Data Cleaning Img">
